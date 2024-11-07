@@ -12,6 +12,25 @@
 
 
 <body>
+
+<div class="container">
+    <label>Firtsname></label>
+    <input type="text" name="firsname" class="form-control">
+
+</div>
+
+<div class="container">
+    <label>middle</label>
+    <input type="text" name="firsname" class="form-control">
+
+</div>
+
+<div class="container">
+    <label>lastnamename></label>
+    <input type="text" name="firsname" class="form-control">
+
+</div>
+
     <p>Ubuntu Server-PHP deployment - Marra Gardones</p>
 </body>
 </html>
