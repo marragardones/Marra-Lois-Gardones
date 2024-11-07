@@ -16,18 +16,27 @@
 <p>Ubuntu Server-PHP deployment- Marra Gardones</p>
 
 
-<form action="/action_page.php" method="get">
-  <label for="fname">First name:</label>
-  <input type="text" id="fname" name="fname"><br><br>
-  <label for="lname">Middle name:</label>
-  <label for="fname">Last name:</label>
-  <input type="text" id="fname" name="fname"><br><br>
-  <input type="text" id="lname" name="lname"><br><br>
-   <input type="text" id="mname" name="mname"><br><br>
-   <input type="text" id="lname" name="lname"><br><br>
-  <button type="submit">Submit</button>
-  <button type="submit" formaction="/action_page2.php">Submit to another page</button>
-</form>
+
+<div class="container">
+    <label>Firtsname></label>
+    <input type="text" name="firsname" class="form-control">
+
+</div>
+
+<div class="container">
+    <label>middle</label>
+    <input type="text" name="firsname" class="form-control">
+
+</div>
+
+<div class="container">
+    <label>lastname></label>
+    <input type="text" name="firsname" class="form-control">
+
+</div>
+
+<button type="submit">Submit</button>
+
     
 </body>
 </html>
